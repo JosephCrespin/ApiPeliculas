@@ -2,14 +2,8 @@
   "peliculas": [
     {
       "id": 2,
-      "nombre": "Pulp Fiction",
-      "director": "Tarantino",
-      "clasificacion": "Acción"
-    },
-    {
-      "id": 4,
-      "nombre": "300",
-      "director": "Zack Snyder",
+      "nombre": "overlord",
+      "director": "Julius Avery",
       "clasificacion": "Acción"
     },
     {
@@ -31,9 +25,6 @@
       "clasificacion": "Documental"
     },
     {
-      "id": 8
-    },
-    {
       "nombre": "El sexto sentido",
       "director": "M. Night Shyamalan",
       "clasificacion": "Drama",
@@ -50,6 +41,36 @@
       "director": "M. Night Shyamalan",
       "clasificacion": "Drama",
       "id": 11
+    },
+    {
+      "id": 12,
+      "nombre": "overlord",
+      "director": "Julius Avery",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 13,
+      "nombre": "Friday the 13th",
+      "director": "Sean S. Cunningham",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 14,
+      "nombre": "Jason bourne",
+      "director": "Paul Greengrass",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 18,
+      "nombre": "ratatouille",
+      "director": "Bran bird",
+      "clasificacion": "Acción"
     }
   ],
   "clasificaciones": [
